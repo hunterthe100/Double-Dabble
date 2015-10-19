@@ -1,5 +1,5 @@
 # Double-Dabble
-A Double Dabble circut in Logisim
+A Double Dabble circuit in Logisim
 
 Public Domain
 
